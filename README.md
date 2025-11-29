@@ -72,6 +72,11 @@ Certain calculations or inputs may result in errors or warnings:
 - **Unsupported Characters:**  
   Special characters or inputs that don't match the format `number operator number` (e.g. `5&2`) are considered invalid.
 
----
+## Personal Experience
 
+Creating this app using Python was something I've always wanted to do. Building its GUI with Tkinter was very difficult, but it was a great learning experience.  
+I had to completely transform the basic Python calculator code into something suitable for Tkinter.  
+My aim was to create a basic calculator that performs four operations and is user-friendly.  
+In the future, I would like to add additional functions such as a modulus calculator, a power/root calculator, and perhaps a decimal to fraction converter.
+---
 **Made with ❤ by Srivarshini**
