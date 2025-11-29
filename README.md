@@ -43,12 +43,12 @@ Created by **Srivarshini**.
 - Go back to the welcome screen using the `Back` button.
 
 ## Screenshots
-<img width="200" height="300" alt="calculatormain" src="https://github.com/user-attachments/assets/ee25e8ae-a0bf-48ba-a723-ca03ae832566" />
-<img width="200" height="300" alt="calculator" src="https://github.com/user-attachments/assets/33729ba6-c550-4674-b4b8-85a5e69d9f56" />
-<img width="604" height="795" alt="examplecalculation" src="https://github.com/user-attachments/assets/4f048033-3b4a-491d-aea8-8fa5e1c1107f" />
-<img width="606" height="800" alt="errorhandling" src="https://github.com/user-attachments/assets/21af0eb1-7b60-47be-a001-d244e1dfc79f" />
-<img width="602" height="805" alt="invalidinput" src="https://github.com/user-attachments/assets/8d92866a-1537-4ea4-b7a4-26f45520051d" />
-<img width="603" height="800" alt="image" src="https://github.com/user-attachments/assets/0e225319-e7ab-432f-8796-ea72e8ce4539" />
+<img width="250" height="350" alt="calculatormain" src="https://github.com/user-attachments/assets/ee25e8ae-a0bf-48ba-a723-ca03ae832566" />
+<img width="250" height="350" alt="calculator" src="https://github.com/user-attachments/assets/33729ba6-c550-4674-b4b8-85a5e69d9f56" />
+<img width="250" height="350" alt="examplecalculation" src="https://github.com/user-attachments/assets/4f048033-3b4a-491d-aea8-8fa5e1c1107f" />
+<img width="250" height="350" alt="errorhandling" src="https://github.com/user-attachments/assets/21af0eb1-7b60-47be-a001-d244e1dfc79f" />
+<img width="250" height="350" alt="invalidinput" src="https://github.com/user-attachments/assets/8d92866a-1537-4ea4-b7a4-26f45520051d" />
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/0e225319-e7ab-432f-8796-ea72e8ce4539" />
 
 ## Error & Invalid Input Handling
 
